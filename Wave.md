@@ -1,145 +1,77 @@
-## Wave не скачивается
-
-- Выключи проверку в реальном времени в твоем антивирусе.
-
-- Удалить антивирус или же выключить безопастность в браузере.
-
-## Wave закрывается без причины после запуска
-
-- Выключи проверку в реальном времени в твоем антивирусе.
-
-- Добавь папку Wave в исключение антивируса.
-
-- Удалить все антивирусы.
-
-- Полностью стереть папку `%temp%` (Нажать Windows + R, написать %temp% и нажми Enter).
-
-- Удалить папку с Wave в `%localappdata%` (Нажать Windows + R, написать %temp% и нажми Enter).
-
-- Перескачать Wave.
-
-- Запустить Wave от имени администатора.
-
-## Wave не инжектится в роблокс
-
-- Выключи проверку в реальном времени в твоем антивирусе.
-
-- Добавь папку Wave в исключение антивируса.
-
-- Удали все антивирусы.
-
-- Полностью стереть папку `%temp%` (Нажать Windows + R, написать %temp% и нажми Enter).
-
-- Удалить кэш.
-
-- Скачать следущие файлы и перезапустить ПК:
-
-  - [VC Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-  
-  - [VC Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
-
-  - [Node.js](https://nodejs.org/en/download/prebuilt-installer)
-
-  - [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-
-## WaveInstaller.exe закрывается без причины
-
- - Перескачать инсталлер.
-
-   - Использовать [Proton VPN(Не работает в РФ)](https://protonvpn.com/) или же [Urban VPN(Возможно не работает в РФ)](https://www.urban-vpn.com/)
-
- - Скачать зависимости Visual C++ и перезапустить ПК:
-
-   - [VC Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-
-   - [VC Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
-
-## Нет кнопки Execute/Нет папки workspace
-
-- Запустить [фикс](https://1drv.ms/u/c/72500c580423d8ea/EQZ8PXpOyGtFu9SfRtRLj_0B0JpWQQdNpXLbXxuHgUXSrA?e=Rg0PhF) от имени админстратора.
-
-- Удалить Wave в `%localappdata%\Programs` (Нажать Windows + R, написать `%localappdata%\Programs`, и нажми Enter).
-
-- Запусти инсталлер Wave от имени администратора.
-
-- Скачай файлы ниже и перезапусти твой ПК:
-
-  - [VC Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-  
-  - [VC Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
-
-  - [Node.js](https://nodejs.org/en/download/prebuilt-installer) 
-
-  - [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-
-## Registry Mismatch Error | 0x700001
-
-- Закрой Wave.
-
-- Удали папку Wave с `%localappdata%` (Нажми Windows + R, напиши `%localappdata%`, и нажми Enter).
-
-- Удали папку Wave с %temp% (Нажми Windows + R, напиши `%temp%`, и нажми Enter).
-
-- Перескачай Wave.
-
-## Access Denied | Bloxstrap.exe
-
-- Close Wave and Roblox.
-
-- Удали Bloxstrap с `%localappdata%` (Нажми Windows + R, напиши `%localappdata%`, и нажми Enter).
-
-- Запусти Wave.
-
-## Non-Zero Exit Code Error
-
-- Выключи проверку в реальном времени в твоем антивирусе.
-
-- Добавь папку Wave в исключение антивируса.
-
-- Удали все антивирусы.
-
-- Перескачай роблокс.
-
-- Удали папку Wave с `%localappdata%` (Нажми Windows + R, напиши `%localappdata%`, и нажми Enter).
-
-- Удали папку Wave с `%temp%` (Нажми Windows + R, напиши `%temp%`, и нажми Enter).
-
-- Перескачай Wave.
-
-- Запусти Wave от имени администратора.
-
-- Скачай последнию версию Виндоус.
-
-## EPERM Operation
-
-Перемести `bloxstrap.exe` из `%localappdata%\Programs\Wave\Bin` (Нажми Windows + R, напиши `%localappdata%\Programs\Wave\Bin`, и нажми Enter) в `%localappdata%\Bloxstrap` (Нажми Windows + R, напиши `%localappdata%\Bloxstrap`, и нажми Enter).
-
-## Wave требует больше прав
-
-- Нажми Windows + R, напиши `%localappdata%\Programs\Wave`, и нажми Enter.
-
-- Запусти Wave от имени администратора
-
-## ClientManager Exited Code 0
-
-- Перезапусти твой ПК.
-
-- Выключи антивирус или добавь папку с Wave в исключение.
-
-- Перескачай роблокс.
-
-- Запусти `wave.exe` от имени администратора.
-
-- Удали Wave с `%temp%` (Нажми Windows + R, напиши `%temp%`, и нажми Enter) и `%localappdata%\Programs` (Нажми Windows + R, напиши `%localappdata%\Programs`, и нажми Enter).
-
-- Будь уверен что у тебя последняя версия Виндоус.
-
-## Authentication Failed
-
-`Спуф хвида, смена характеристик/ПК может вызвать это.`
-
-- Напиши твоему [реселлеру](https://robloxcheatz.com/) и попроси ресет хвида.
-
-- Если тебя кикает только после активации скрипта, то это нужно реснуть HWID в скрипте, тут нет вины Wave.
-
-
+## Проблемы с загрузкой Wave  
+- Отключи защиту в реальном времени  
+- Удали сторонние антивирусы или защитные расширения браузеров  
+
+## Wave вылетает при запуске  
+- Отключи защиту в реальном времени  
+- Добавь папку Wave в исключения антивируса  
+- Удали сторонние антивирусы  
+- Очисти папку `%temp%` (Win+R → %temp%)  
+- Удали папку Wave из `%localappdata%` (Win+R → %localappdata%)  
+- Скачай Wave заново  
+- Запусти Wave от имени администратора  
+
+## Wave не инжектится  
+- Отключи защиту в реальном времени  
+- Добавь папку Wave в исключения антивируса  
+- Удали сторонние антивирусы  
+- Очисти папку `%temp%` (Win+R → %temp%)  
+- Очисти кэш  
+- Установи компоненты и перезагрузи ПК:  
+  - [VC Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
+  - [VC Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)  
+  - [Node.js](https://nodejs.org/en/download/prebuilt-installer)  
+  - [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)  
+
+## WaveInstaller.exe вылетает  
+- Перекачай установщик  
+  - Используй [Proton VPN](https://protonvpn.com/) или [Urban VPN](https://www.urban-vpn.com/)  
+- Установи компоненты и перезагрузи ПК:  
+  - [VC Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
+  - [VC Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)  
+
+## Нет кнопки Workspace/Execute  
+- Запусти [фикс](https://1drv.ms/u/c/72500c580423d8ea/EQZ8PXpOyGtFu9SfRtRLj_0B0JpWQQdNpXLbXxuHgUXSrA?e=Rg0PhF) от админа  
+- Удали папку Wave из `%localappdata%\Programs` (Win+R → %localappdata%\Programs)  
+- Переустанови Wave от админа  
+- Установи компоненты и перезагрузи ПК (ссылки выше)  
+
+## Ошибка реестра 0x700001  
+- Закрой Wave  
+- Удали папку Wave из `%localappdata%` и `%temp%`  
+- Скачай Wave заново  
+
+## Ошибка доступа Bloxstrap.exe  
+- Закрой Wave и Roblox  
+- Удали папку Bloxstrap из `%localappdata%`  
+- Запусти Wave  
+
+## Ошибка Non-Zero Exit Code  
+- Отключи защиту в реальном времени  
+- Добавь Wave в исключения антивируса  
+- Удали сторонние антивирусы  
+- Переустанови Roblox  
+- Удали папку Wave из `%localappdata%` и `%temp%`  
+- Скачай Wave заново  
+- Запусти от админа  
+- Обнови Windows  
+
+## Ошибка EPERM  
+Перенеси `bloxstrap.exe` из `%localappdata%\Programs\Wave\Bin` в `%localappdata%\Bloxstrap`  
+
+## Wave требует прав админа  
+- Win+R → %localappdata%\Programs\Wave  
+- Запусти Wave от админа  
+
+## Ошибка ClientManager Code 0  
+- Перезагрузи ПК  
+- Отключи антивирус/добавь в исключения  
+- Переустанови Roblox  
+- Запусти `wave.exe` от админа  
+- Удали Wave из `%temp%` и `%localappdata%\Programs`  
+- Обнови Windows  
+
+## Ошибка аутентификации  
+`Изменения железа или HWID могут вызывать эту ошибку`  
+- Обратись к [реселлеру](https://robloxcheatz.com/) для сброса HWID  
+- Если игра просит сбросить HWID - это проблема скрипта
